@@ -14,6 +14,7 @@ python3 trading_service.py
 ### Setting up the UI 
 **Install dependencies**
 ```
+git clone https://github.com/iamsli/trading-service-ui.git
 cd trading-service-ui
 npm install 
 ```
